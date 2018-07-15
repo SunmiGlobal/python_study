@@ -6,3 +6,4 @@ print(message)
 X=10
 print(X)
 print("jiuy")
+print (message+X)
